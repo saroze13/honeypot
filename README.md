@@ -1,4 +1,4 @@
-# Week-9 Honeypot Attack Report
+# Weeks 10 & 11 Project: Honeypot
 
 Honeypot is deployed, no issues were found
 
